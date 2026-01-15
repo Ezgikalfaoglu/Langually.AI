@@ -1,5 +1,5 @@
 # Langually.AI
-Melike Şahin – UI/UX Designer
+Ezginur Kalfaoğlu SUB: Melike Şahin – UI/UX Designer
 
 Branch: feature/ui-ux
 
