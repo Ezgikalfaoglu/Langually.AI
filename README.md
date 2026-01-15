@@ -1,4 +1,10 @@
 # Langually.AI
+Ezginur Kalfaoğlu – Project Manager / Analyst
+
+Branch: feature/pm-analysis
+
+Responsibilities:
+
 Overall project planning and coordination
 
 Requirement analysis and use case validation (UC1–UC20)
