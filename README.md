@@ -3,16 +3,36 @@ Ezginur Kalfaoğlu – Project Manager / Analyst
 
 Branch: feature/pm-analysis
 
-Responsibilities:
+Responsibilities
 
-Overall project planning and coordination
+Define and control the project scope for full delivery (Login, Chat, Quiz, Dashboard, Writing Submission, Adaptive Logic).
 
-Requirement analysis and use case validation (UC1–UC20)
+Prepare the Use Case → UI / API mapping table to ensure all requirements are covered.
 
-Project documentation structure and information architecture
+Design the AI Tutor System Prompt (polite corrections, examples, adaptive feedback).
 
-Prompt engineering for the AI Tutor system
+Maintain repository standards:
 
-Verification of task progress and milestone tracking
+Folder structure
 
-Review and approval of Pull Requests before merging
+Naming conventions
+
+.gitignore and .env.example
+
+Manage Pull Requests and resolve merge conflicts.
+
+Finalize submission documents:
+
+README.md
+
+Demo flow description
+
+Academic limitations and assumptions note
+
+Deliverables
+
+Final README sections
+
+Use Case mapping table
+
+AI system prompt documentation
