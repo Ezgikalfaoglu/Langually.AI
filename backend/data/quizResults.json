@@ -1,0 +1,182 @@
+[
+  {
+    "username": "berfin",
+    "score": 2,
+    "answers": [
+      {
+        "id": 1,
+        "correct": true
+      },
+      {
+        "id": 2,
+        "correct": false
+      },
+      {
+        "id": 3,
+        "correct": true
+      }
+    ],
+    "date": "2026-01-15T15:47:59.282Z"
+  },
+  {
+    "username": "admin",
+    "score": 4,
+    "totalQuestions": 5,
+    "answers": [
+      {
+        "id": 1,
+        "text": "What is the correct way to introduce yourself?",
+        "selectedOption": "Hi, I am John.",
+        "correct": false
+      },
+      {
+        "id": 2,
+        "text": "Which word is a noun?",
+        "selectedOption": "Cat",
+        "correct": true
+      },
+      {
+        "id": 3,
+        "text": "How do you ask someone's name?",
+        "selectedOption": "What is your name?",
+        "correct": true
+      },
+      {
+        "id": 4,
+        "text": "Choose the correct plural of 'child'.",
+        "selectedOption": "children",
+        "correct": true
+      },
+      {
+        "id": 5,
+        "text": "Which sentence is in present simple tense?",
+        "selectedOption": "She runs every morning.",
+        "correct": true
+      }
+    ],
+    "weakTopics": [],
+    "date": "2026-01-16T02:12:10.526Z"
+  },
+  {
+    "username": "ece",
+    "score": 2,
+    "totalQuestions": 5,
+    "answers": [
+      {
+        "id": 1,
+        "text": "What is the correct way to introduce yourself?",
+        "selectedOption": "Hi, I am John.",
+        "correct": false
+      },
+      {
+        "id": 2,
+        "text": "Which word is a noun?",
+        "selectedOption": "Beautiful",
+        "correct": false
+      },
+      {
+        "id": 3,
+        "text": "How do you ask someone's name?",
+        "selectedOption": "How old are you?",
+        "correct": false
+      },
+      {
+        "id": 4,
+        "text": "Choose the correct plural of 'child'.",
+        "selectedOption": "children",
+        "correct": true
+      },
+      {
+        "id": 5,
+        "text": "Which sentence is in present simple tense?",
+        "selectedOption": "She runs every morning.",
+        "correct": true
+      }
+    ],
+    "weakTopics": [],
+    "date": "2026-01-16T08:49:36.051Z"
+  },
+  {
+    "username": "ece",
+    "score": 5,
+    "totalQuestions": 5,
+    "answers": [
+      {
+        "id": 1,
+        "text": "She ____ to school every day.",
+        "topic": "grammar",
+        "selectedOption": "goes",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Yesterday, I ____ a movie.",
+        "topic": "grammar",
+        "selectedOption": "watched",
+        "correct": true
+      },
+      {
+        "id": 3,
+        "text": "Fix the sentence: 'I are happy.'",
+        "topic": "grammar",
+        "selectedOption": "I am happy.",
+        "correct": true
+      },
+      {
+        "id": 4,
+        "text": "They ____ a book last night.",
+        "topic": "grammar",
+        "selectedOption": "read",
+        "correct": true
+      },
+      {
+        "id": 5,
+        "text": "Which word means 'happy'?",
+        "topic": "vocabulary",
+        "selectedOption": "joyful",
+        "correct": true
+      }
+    ],
+    "weakTopics": [],
+    "date": "2026-01-16T09:56:49.717Z"
+  },
+  {
+    "username": "admin",
+    "score": 5,
+    "totalQuestions": 5,
+    "answers": [
+      {
+        "id": 1,
+        "text": "What is the correct way to introduce yourself?",
+        "selectedOption": "Hello, I am John.",
+        "correct": true
+      },
+      {
+        "id": 2,
+        "text": "Which word is a noun?",
+        "selectedOption": "Cat",
+        "correct": true
+      },
+      {
+        "id": 3,
+        "text": "How do you ask someone's name?",
+        "selectedOption": "What is your name?",
+        "correct": true
+      },
+      {
+        "id": 4,
+        "text": "Choose the correct plural of 'child'.",
+        "selectedOption": "children",
+        "correct": true
+      },
+      {
+        "id": 5,
+        "text": "Which sentence is in present simple tense?",
+        "selectedOption": "She runs every morning.",
+        "correct": true
+      }
+    ],
+    "weakTopics": [],
+    "date": "2026-01-19T17:11:01.822Z"
+  }
+]
