@@ -135,7 +135,7 @@ aitutorproject-fixed/
 │   │   ├── dashboard.html # Main dashboard
 │   │   ├── chat.html      # AI Tutor chat
 │   │   ├── quiz.html      # Quiz interface
-│   │   └── writing.html   # Writing submission
+│   │   ├── writing.html   # Writing submission
 │   ├── js/
 │   │   ├── auth.js        # Authentication logic
 │   │   ├── dashboard.js   # Dashboard updates
